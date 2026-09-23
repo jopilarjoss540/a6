@@ -1,0 +1,207 @@
+{
+  "domain": "charmeusevibe",
+  "niche": "Haute Charmeuse Fashion & Bespoke Silk Couture",
+  "design_concept": "Neo-Classicist Guild & Roman Columnar",
+  "archetype_id": "neoclassic_guild",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "charmeusevibe_asset_2.jpg",
+      "size_kb": 243.32,
+      "md5": "03c6942439242ce72a3614408489d1f0",
+      "description": "brigandine italian c1470 royal a",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "charmeusevibe_asset_3.jpg",
+      "size_kb": 143.38,
+      "md5": "b8f962e95c90599cbb3521385c345c26",
+      "description": "cloth seal augsberg findid 977607",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "charmeusevibe_asset_7.jpg",
+      "size_kb": 290.93,
+      "md5": "877b8131d5e1ba80dcfaf6835ef67d43",
+      "description": "historic former fustian cutters co",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "charmeusevibe_asset_8.jpg",
+      "size_kb": 117.42,
+      "md5": "4dc4229a09bca5af2111e22d8dcbb9e0",
+      "description": "led cloth bag seal 1600 1700 fin",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "charmeusevibe_asset_10.jpg",
+      "size_kb": 96.91,
+      "md5": "147a1df60015ec90c1b819c3b1d00c8a",
+      "description": "royal air force operations in the m",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "charmeusevibe_asset_12.jpg",
+      "size_kb": 101.33,
+      "md5": "469e0fadd06ab7afbf9dabc6692ebb41",
+      "description": "textile samples fustian linen an",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "charmeusevibe_asset_13.jpg",
+      "size_kb": 188.72,
+      "md5": "5729eb4107120e21e35efef6483f2142",
+      "description": "chanel iman runway 2009",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "charmeusevibe_asset_23.jpg",
+      "size_kb": 151.3,
+      "md5": "37849d998cbb209709bee28bba970e61",
+      "description": "diane von f rstenberg spring summer",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "charmeusevibe_asset_24.jpg",
+      "size_kb": 93.11,
+      "md5": "4d25ef45a61331c24a3105237ba0a264",
+      "description": "elfsack show",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "charmeusevibe_asset_25.jpg",
+      "size_kb": 197.32,
+      "md5": "023bed195f1384ee32397c1c0a1635d6",
+      "description": "ed hardy runway models",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "charmeusevibe_asset_27.jpg",
+      "size_kb": 140.35,
+      "md5": "0e76b992efda863e73769f5e107a853f",
+      "description": "fashionweeknic2017",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "charmeusevibe_asset_28.jpg",
+      "size_kb": 97.69,
+      "md5": "7ea596db89bb8d145885ea4b71f8138a",
+      "description": "india runway week",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "charmeusevibe_asset_29.jpg",
+      "size_kb": 135.84,
+      "md5": "4877ab0dfc9305e5cb0118d67f3881e8",
+      "description": "indigenous fashion arts",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "charmeusevibe_asset_32.jpg",
+      "size_kb": 188.84,
+      "md5": "84e1b2965bc2e053287ab2a402a8bff4",
+      "description": "jaslene gonzalez at mercedes benz f",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "charmeusevibe_asset_33.jpg",
+      "size_kb": 112.3,
+      "md5": "aadd15af840765c76b733d9af759c699",
+      "description": "jill stuart fall winter 2010 001",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "charmeusevibe_asset_34.jpg",
+      "size_kb": 95.18,
+      "md5": "3197b67c5b831e5095bdcadc3010716e",
+      "description": "jill stuart fall winter 2010 008",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "charmeusevibe_asset_35.jpg",
+      "size_kb": 139.04,
+      "md5": "b47da8e0a6e2398caf2418c6954b25c4",
+      "description": "jill stuart fall winter 2010 176",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "charmeusevibe_asset_38.jpg",
+      "size_kb": 141.87,
+      "md5": "407d57bf526456738c5595e574630046",
+      "description": "lela rose fall winter 2010 178",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "charmeusevibe_asset_39.jpg",
+      "size_kb": 199.02,
+      "md5": "ce3b473e549c9aa10f43d1ce46b8fb84",
+      "description": "massinissa of the rif at the casabl",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "charmeusevibe_asset_40.jpg",
+      "size_kb": 192.62,
+      "md5": "b20732bc40df87a3130fee64a3c72e17",
+      "description": "Artisanal handcrafted Haute Charmeuse Fashion & Bespoke Silk Couture: ",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://charmeusevibe.com/sitemap.xml",
+    "robots": "https://charmeusevibe.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}

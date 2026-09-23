@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://charmeusevibe.com/sitemap.xml
